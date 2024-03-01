@@ -10,10 +10,38 @@ But the most **basic** tools that I think are _required_, to get any productive 
 
 ## 1. Text editor
 
+You might say that a text editor is truly the only required tool to start developing.
+And I have to agree. For 2 reasons:
 
+1. Development often starts with adding and editing files in your project. So, you will need a text editor.
+2. Some text editors are part of an IDE, which comes packed with all kinds of useful tools.
 
-## 2. Version control system
+But let me ask: what is a text editor?
 
-## 3. The terminal
+It sits in the name: something that can edit text.
+
+So you can go all in and use an IDE like VSCode, PyCharm, or PHPStorm.
+Or you can settle on a pre-installed text editor on your device.
+Hey, if you really want to you can also use pen and paper.
+
+Some developers want all the tooling they can get, so they go with an IDE.
+
+But some others choose to use a more limited text editor with less features.
+Why?
+
+The reasons can vary of course.
+Some might not want any extra help from an IDE or any Intellisense.
+And this is a great technique for new developers that want to learn the syntax of a language.
+
+Some developers use both an IDE and a simpler text editor.
+
+So what text editor you should use depends on you.
+Your goals and preference.
+
+Some developers use the terminal as their text editor as well, and that is the second tool I wanted to talk about.
+
+## 2. The terminal
+
+## 3. Version control system
 
 ## Bonus: Documentation
