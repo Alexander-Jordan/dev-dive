@@ -36,11 +36,32 @@ And this is a great technique for new developers that want to learn the syntax o
 And there is nothing stopping you from using both an IDE and a simpler text editor.
 
 So what text editor you should use depends on **you**.
-Your goals and preference.
+Your goals, your needs, and your preferences.
 
 The terminal can also be used as a text editor, and that is the second tool I wanted to talk about.
 
 ## 2. The terminal
+
+The terminal is a piece of software where you run commands.
+
+These commands, or programs, can be software you made or someone else made.
+
+You can do basic stuff like add, edit, view, and list files and folders.
+
+You can also do more complex stuff like managing a projects dependencies.
+Or debug, test, and build your projects.
+
+I would say that whatever you can do using some GUI aplication, you can do the same thing using the terminal.
+But the difference is that you have an endless amount of customization, and you can do a lot more, using the terminal.
+
+Should you know everything there is to know about the terminal?
+Only if you want to.
+
+But I think it's an essential tool for any developer to at least know the basics.
+At some point, it will cross your path.
+
+A software that is often used via the terminal is some kind of a version control system.
+And that is the third tool I think should be required.
 
 ## 3. Version control system
 
