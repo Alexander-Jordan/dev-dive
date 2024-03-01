@@ -46,13 +46,13 @@ The terminal is a piece of software where you run commands.
 
 These commands, or programs, can be software you made or someone else made.
 
-You can do basic stuff like add, edit, view, and list files and folders.
+You can do basic stuff like manipulating files and folders, and their contents.
 
 You can also do more complex stuff like managing a projects dependencies.
 Or debug, test, and build your projects.
 
-I would say that whatever you can do using some GUI aplication, you can do the same thing using the terminal.
-But the difference is that you have an endless amount of customization, and you can do a lot more, using the terminal.
+I would say that whatever you can do in any GUI application, you can do with the terminal.
+But using the terminal you have an endless amount of customization, and you can do a lot more.
 
 Should you know everything there is to know about the terminal?
 Only if you want to.
@@ -60,8 +60,7 @@ Only if you want to.
 But I think it's an essential tool for any developer to at least know the basics.
 At some point, it will cross your path.
 
-A software that is often used via the terminal is some kind of a version control system.
-And that is the third tool I think should be required.
+Development demand structure, which brings us to the third tool.
 
 ## 3. Version control system
 
