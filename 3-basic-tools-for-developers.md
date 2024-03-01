@@ -10,7 +10,7 @@ But the most **basic** tools that I think are _required_, to get any productive 
 
 ## 1. Text editor
 
-You might say that a text editor is truly the only required tool to start developing.
+You might say that a text editor is truly the only _required_ tool to start developing.
 And I have to agree. For 2 reasons:
 
 1. Development often starts with adding and editing files in your project. So, you will need a text editor.
@@ -33,12 +33,12 @@ The reasons can vary of course.
 Some might not want any extra help from an IDE or any Intellisense.
 And this is a great technique for new developers that want to learn the syntax of a language.
 
-Some developers use both an IDE and a simpler text editor.
+And there is nothing stopping you from using both an IDE and a simpler text editor.
 
-So what text editor you should use depends on you.
+So what text editor you should use depends on **you**.
 Your goals and preference.
 
-Some developers use the terminal as their text editor as well, and that is the second tool I wanted to talk about.
+The terminal can also be used as a text editor, and that is the second tool I wanted to talk about.
 
 ## 2. The terminal
 
