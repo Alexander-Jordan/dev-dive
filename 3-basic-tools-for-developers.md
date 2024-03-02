@@ -64,4 +64,20 @@ Development demand structure, which brings us to the third tool.
 
 ## 3. Version control system
 
+How would you try to keep track of how your project change over time?
+
+Maybe a change log? Would you have one for every file, or the entire project?
+Would you save a modified file as a new one, prefixed with `-latest'?
+
+The larger your project grow, this becomes more of an issue.
+And we haven't even talked about collaboration or reverting changes.
+
+These are problems that version control systems solves.
+
+It's a software that keeps track of your projects history - every single change.
+
+It also helps with smooth collaboration without conflicts.
+
+In other words: it makes it super clear how you project evolves, and who contributed with what.
+
 ## Bonus: Documentation
