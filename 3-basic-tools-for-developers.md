@@ -31,7 +31,7 @@ Why?
 
 The reasons can vary of course.
 Some might not want any extra help from an IDE or any Intellisense.
-And this is a great technique for new developers that want to learn the syntax of a language.
+And this is a great technique for new developers that want to learn the syntax of a language, without all that extra help.
 
 And there is nothing stopping you from using both an IDE and a simpler text editor.
 
@@ -51,7 +51,7 @@ You can do basic stuff like manipulating files and folders, and their contents.
 You can also do more complex stuff like managing a projects dependencies.
 Or debug, test, and build your projects.
 
-I would say that whatever you can do in any GUI application, you can do with the terminal.
+I would say that whatever you can do in a GUI application, you can do with the terminal.
 But using the terminal you have an endless amount of customization, and you can do a lot more.
 
 Should you know everything there is to know about the terminal?
@@ -86,18 +86,20 @@ And that makes it easy to also revert mistakes, or go back in time.
 
 So, what version control system should you use?
 
-There are multiple options, and it's even possible to create one yourself, which is something I would like to explore sometime.
+There are multiple options, and you can even create one yourself, which is something I would like to explore sometime.
 
 But the one I recommend is `git`, which is a popular option and well documented.
 And speaking of well documented, here is a bonus tool.
 
 ## Bonus: Documentation
 
-I would define documentation as any information that shares knowledge about something specific, like a software, or a concept.
+I would define documentation as any information that explains something, like a software, or a concept.
 
-That could be documentation for a program you use, or it could be a YouTube video, or even AI generated answers.
+That could be instructions for a program you use, or it could be a YouTube video, or even AI generated answers.
 
 But why only benefit from documenation written by others?
 Write documentation for yourself, and anyone you'd like to share it with.
 
 That include documentation for your projects, general notes, comments in your code, and even writing clean code that explains itself.
+
+I think that great documentation results in even greater software and developers.
