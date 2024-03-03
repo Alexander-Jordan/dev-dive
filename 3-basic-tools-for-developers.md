@@ -97,7 +97,7 @@ I would define documentation as any information that shares knowledge about some
 
 That could be documentation for a program you use, or it could be a YouTube video, or even AI generated answers.
 
-And why only benefit from documenation written by others?
-Write documentation for youself, or anyone else you'd like to share it with.
+But why only benefit from documenation written by others?
+Write documentation for yourself, and anyone you'd like to share it with.
 
-That include documentation for your projects, general notes, comments in your code, and even writing clean code that's easy to understand.
+That include documentation for your projects, general notes, comments in your code, and even writing clean code that explains itself.
