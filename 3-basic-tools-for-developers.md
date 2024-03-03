@@ -64,10 +64,13 @@ Development demand structure, which brings us to the third tool.
 
 ## 3. Version control system
 
-How would you try to keep track of how your project change over time?
+How would you try to keep track of changes of your project over time?
 
-Maybe a change log? Would you have one for every file, or the entire project?
-Would you save a modified file as a new one, prefixed with `-latest'?
+Would you each time save your files as new ones, prefixed with something like `-latest`, `-final`, or the current date?
+Yeah, that would get messy fast.
+
+Maybe a change log? Would you have one for the entire project, one for each folder, or one for every file?
+What about small changes, like one line?
 
 The larger your project grow, this becomes more of an issue.
 And we haven't even talked about collaboration or reverting changes.
@@ -78,6 +81,23 @@ It's a software that keeps track of your projects history - every single change.
 
 It also helps with smooth collaboration without conflicts.
 
-In other words: it makes it super clear how you project evolves, and who contributed with what.
+In other words: it makes it super clear how your project evolves, and who contributed to what.
+And that makes it easy to also revert mistakes, or go back in time.
+
+So, what version control system should you use?
+
+There are multiple options, and it's even possible to create one yourself, which is something I would like to explore sometime.
+
+But the one I recommend is `git`, which is a popular option and well documented.
+And speaking of well documented, here is a bonus tool.
 
 ## Bonus: Documentation
+
+I would define documentation as any information that shares knowledge about something specific, like a software, or a concept.
+
+That could be documentation for a program you use, or it could be a YouTube video, or even AI generated answers.
+
+And why only benefit from documenation written by others?
+Write documentation for youself, or anyone else you'd like to share it with.
+
+That include documentation for your projects, general notes, comments in your code, and even writing clean code that's easy to understand.
