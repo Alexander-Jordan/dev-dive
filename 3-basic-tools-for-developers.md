@@ -93,13 +93,17 @@ And speaking of well documented, here is a bonus tool.
 
 ## Bonus: Documentation
 
-I would define documentation as any information that explains something, like a software, or a concept.
+I would define documentation as: information, that explains something.
+Like a software, or some concept.
 
-That could be instructions for a program you use, or it could be a YouTube video, or even AI generated answers.
+So that could be docs for a program you use, or it could be a YouTube video.
+It could be a reddit post, or even AI generated answers.
 
 But why only benefit from documenation written by others?
 Write documentation for yourself, and anyone you'd like to share it with.
 
 That include documentation for your projects, general notes, comments in your code, and even writing clean code that explains itself.
+
+The tool is: become great at both finding and writing useful information.
 
 I think that great documentation results in even greater software and developers.
