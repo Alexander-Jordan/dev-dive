@@ -30,8 +30,8 @@ But some others choose to use a more limited text editor with less features.
 Why?
 
 The reasons can vary of course.
-Some might not want any extra help from an IDE or any Intellisense.
-And this is a great technique for new developers that want to learn the syntax of a language, without all that extra help.
+Some might not want any extra help from an IDE or any intellisense (which corrects you).
+And this is a great technique for new developers that really want to learn the syntax of a language, without all that extra help.
 
 And there is nothing stopping you from using both an IDE and a simpler text editor.
 
@@ -46,7 +46,7 @@ The terminal is a piece of software where you run commands.
 
 These commands, or programs, can be software you made or someone else made.
 
-You can do basic stuff like manipulating files and folders, and their contents.
+You can do basic stuff like manipulating files and folders and their contents.
 
 You can also do more complex stuff like managing a projects dependencies.
 Or debug, test, and build your projects.
@@ -99,7 +99,7 @@ Like a software, or some concept.
 So that could be docs for a program you use, or it could be a YouTube video.
 It could be a reddit post, or even AI generated answers.
 
-But why only benefit from documenation written by others?
+But why only benefit from documentation written by others?
 Write documentation for yourself, and anyone you'd like to share it with.
 
 That include documentation for your projects, general notes, comments in your code, and even writing clean code that explains itself.
@@ -107,3 +107,19 @@ That include documentation for your projects, general notes, comments in your co
 The tool is: become great at both finding and writing useful information.
 
 I think that great documentation results in even greater software and developers.
+And that's why this is a tool every developer needs.
+
+## Conclusion
+
+A developers toolkit includes a lot of different tools.
+And not everyone will have the exact same tools in their toolbox.
+
+But I think all developers at least should use 3 tools:
+
+1. A text editor
+2. The terminal
+3. A version control system
+
+If you want to become a great developer, make sure that your toolbox include these basic tools, paired with documentation.
+
+Then you have set yourself on the best path to make some pretty good software.
