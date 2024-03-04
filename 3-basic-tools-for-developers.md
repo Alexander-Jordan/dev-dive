@@ -26,14 +26,14 @@ Hey, if you really want to you can also use pen and paper.
 
 Some developers want all the tooling they can get, so they go with an IDE.
 
-But some others choose to use a more limited text editor with less features.
+However some others choose to use a more limited text editor with fewer features.
 Why?
 
 The reasons can vary of course.
-Some might not want any extra help from an IDE or any intellisense (which corrects you).
+Some might not want any extra help from an IDE or any IntelliSense (which corrects you).
 And this is a great technique for new developers that really want to learn the syntax of a language, without all that extra help.
 
-And there is nothing stopping you from using both an IDE and a simpler text editor.
+And nothing is stopping you from using both an IDE and a simpler text editor.
 
 So what text editor you should use depends on **you**.
 Your goals, your needs, and your preferences.
@@ -48,7 +48,7 @@ These commands, or programs, can be software you made or someone else made.
 
 You can do basic stuff like manipulating files and folders and their contents.
 
-You can also do more complex stuff like managing a projects dependencies.
+You can also do more complex stuff like managing a project's dependencies.
 Or debug, test, and build your projects.
 
 I would say that whatever you can do in a GUI application, you can do with the terminal.
@@ -64,7 +64,7 @@ Development demand structure, which brings us to the third tool.
 
 ## 3. Version control system
 
-How would you try to keep track of changes of your project over time?
+How would you try to keep track of changes in your project over time?
 
 Would you each time save your files as new ones, prefixed with something like `-latest`, `-final`, or the current date?
 Yeah, that would get messy fast.
@@ -72,12 +72,12 @@ Yeah, that would get messy fast.
 Maybe a change log? Would you have one for the entire project, one for each folder, or one for every file?
 What about small changes, like one line?
 
-The larger your project grow, this becomes more of an issue.
+The larger your project grows, this becomes more of an issue.
 And we haven't even talked about collaboration or reverting changes.
 
-These are problems that version control systems solves.
+These are problems that version control systems solve.
 
-It's a software that keeps track of your projects history - every single change.
+It's software that keeps track of your project's history - every single change.
 
 It also helps with smooth collaboration without conflicts.
 
@@ -88,8 +88,8 @@ So, what version control system should you use?
 
 There are multiple options, and you can even create one yourself, which is something I would like to explore sometime.
 
-But the one I recommend is `git`, which is a popular option and well documented.
-And speaking of well documented, here is a bonus tool.
+But the one I recommend is `git`, which is a popular option and well-documented.
+And speaking of well-documented, here is a bonus tool.
 
 ## Bonus: Documentation
 
@@ -97,21 +97,21 @@ I would define documentation as: information, that explains something.
 Like a software, or some concept.
 
 So that could be docs for a program you use, or it could be a YouTube video.
-It could be a reddit post, or even AI generated answers.
+It could be a Reddit post, or even AI-generated answers.
 
 But why only benefit from documentation written by others?
 Write documentation for yourself, and anyone you'd like to share it with.
 
-That include documentation for your projects, general notes, comments in your code, and even writing clean code that explains itself.
+That includes documentation for your projects, general notes, comments in your code, and even writing clean code that explains itself.
 
-The tool is: become great at both finding and writing useful information.
+The tool is: to become great at both finding and writing useful information.
 
 I think that great documentation results in even greater software and developers.
 And that's why this is a tool every developer needs.
 
 ## Conclusion
 
-A developers toolkit includes a lot of different tools.
+A developer's toolkit includes a lot of different tools.
 And not everyone will have the exact same tools in their toolbox.
 
 But I think all developers at least should use 3 tools:
@@ -120,6 +120,6 @@ But I think all developers at least should use 3 tools:
 2. The terminal
 3. A version control system
 
-If you want to become a great developer, make sure that your toolbox include these basic tools, paired with documentation.
+If you want to become a great developer, make sure that your toolbox includes these basic tools, paired with great documentation skills.
 
 Then you have set yourself on the best path to make some pretty good software.
